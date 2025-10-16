@@ -1,6 +1,6 @@
 # Kriti Dey
 
-👋 Hi! I’m Kriti Dey — a Market Research and Data Analytics professional passionate about insights, GenAI tools, and storytelling with data.
+Heya! I’m Kriti Dey, a Market Research and Data Analytics professional passionate about insights, GenAI tools, and storytelling with data.
 
 ---
 
